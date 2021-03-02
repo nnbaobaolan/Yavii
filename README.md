@@ -1,0 +1,2 @@
+# Yavii
+jsDelivr CDN
